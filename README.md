@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Siddheshwarhotge
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Siddheshwarhotage
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning in Full stack development in Excelr 
+- 💞️ I’m looking to collaborate on partnership with anyone 
+- 📫 How to reach me Linkedin, Github, etc.
 
 <!---
-Siddheshwarhotge/Siddheshwarhotge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Siddheshwarhotage/Siddheshwarhotage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
